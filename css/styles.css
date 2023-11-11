@@ -189,12 +189,7 @@ body {
         color: #2E2F42;
 }
 
-.title-banking,
-.title-cashless,
-.title-meditation,
-.title-taxi,
-.title-illustrations,
-.title-online {
+.title-portfolio-item {
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -203,12 +198,7 @@ body {
         color: #2E2F42;
 }
 
-.about-banking,
-.about-cashless,
-.about-meditation,
-.about-taxi,
-.about-illustrations,
-.about-online {
+.about-portfolio-item {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
