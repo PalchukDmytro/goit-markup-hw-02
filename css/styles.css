@@ -60,10 +60,6 @@ body {
     color: #404BBF;
 }
 
-.first-item:active{
-    text-decoration: underline;
-}
-
 .contacts-list-link,
 .contacts-list-item{
         font-size: 16px;
@@ -127,6 +123,10 @@ body {
 /*Team*/
 .team-foto{
     background: #F4F4FD;
+}
+
+.our-foto {
+    background-color: #FFFFFF;
 }
 
 .title-team{
