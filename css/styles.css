@@ -77,7 +77,7 @@ body {
         color: #FFF;
 }
 
-/*Section 2*/
+/*Values*/
 .title-strategy,
 .title-punctuality,
 .title-diligence,
@@ -102,7 +102,7 @@ body {
         color: #434455;
 }
 
-/*Section 3*/
+/*Team*/
 .team-foto{
     background: #F4F4FD;
 }
@@ -144,3 +144,5 @@ body {
         letter-spacing: 0.02em;
         color: #434455;
 }
+
+/*Portfolio*/
