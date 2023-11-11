@@ -9,6 +9,12 @@ a{
 
 button{
     cursor: pointer;
+    background: #4D5AE5;
+}
+
+button:hover,
+button:focus {
+    background: #404BBF;
 }
 
 body {
@@ -146,3 +152,66 @@ body {
 }
 
 /*Portfolio*/
+.title-portfolio{
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        /* 111.111% */
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+}
+
+.title-banking,
+.title-cashless,
+.title-meditation,
+.title-taxi,
+.title-illustrations,
+.title-online {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        /* 120% */
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.about-banking,
+.about-cashless,
+.about-meditation,
+.about-taxi,
+.about-illustrations,
+.about-online {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/*Footer*/
+.page-footer {
+background: #2E2F42;
+}
+
+.footer-link {
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.16;
+        /* 116.667% */
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #F4F4FD;
+}
+
+.about-footer {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        /* 150% */
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+}
