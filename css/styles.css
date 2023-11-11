@@ -128,8 +128,8 @@ body {
     background: #F4F4FD;
 }
 
-.our-foto {
-    background-color: #FFFFFF;
+.list-team-item-white {
+        background-color: #FFFFFF;
 }
 
 .title-team{
@@ -165,7 +165,7 @@ body {
 }
 
 /*Portfolio*/
-.list-portfolio-item-white {
+.portfolio {
     background-color: #FFFFFF;
 }
 
