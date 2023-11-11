@@ -64,7 +64,8 @@ body {
     text-decoration: underline;
 }
 
-.contacts-list-link{
+.contacts-list-link,
+.contacts-list-item{
         font-size: 16px;
         font-weight: 400;
         font-style: normal;
